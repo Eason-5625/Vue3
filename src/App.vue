@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
   <p>123</p>
+  <div>456</div>
 </template>
 
 <script>
