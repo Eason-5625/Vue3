@@ -5,6 +5,7 @@
   </div>
   <p>123</p>
   <div>456</div>
+  <p>又新增了一行代码</p>
 </template>
 
 <script>
