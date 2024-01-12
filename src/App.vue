@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
   <p>123</p>
+  <div>这是dev—1分支的代码</div>
 </template>
 
 <script>
