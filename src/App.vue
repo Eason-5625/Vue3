@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
   <div>456</div>
+  <p>又新增了一行代码</p>
 </template>
 
 <script>
